@@ -2,7 +2,10 @@
 
 A modern, stylish movie recommendation web app built using **React** and **Tailwind CSS**. FlickPick allows users to browse movies, get recommendations, search by title or genre, and view detailed info with ratings, trailers, and more – all through a sleek, responsive UI.
 
-> 🔗 [Live Demo](https://your-live-link.netlify.app)
+> ## 📸 Frontend Preview
+
+![FlickPick Frontend](./assets/Preview.png)
+
 
 ---
 
@@ -36,16 +39,24 @@ A modern, stylish movie recommendation web app built using **React** and **Tailw
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YourUsername/flickpick-frontend.git
+git clone https://github.com/Vaishnaviii03/flickpick-frontend.git
 cd flickpick-frontend
-
+```
 ### 2. Install dependencies
 
 
 ```bash
 npm install
-
+```
 ### 3. Run the app
 
 ```bash
 npm start
+```
+
+## 🔗 Backend Repository
+
+This frontend connects to a Flask backend for movie data and recommendations.
+
+👉 [FlickPick Backend Repo](https://github.com/Vaishnaviii03/FlickPick-Backend)
+
