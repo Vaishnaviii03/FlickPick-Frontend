@@ -2,6 +2,8 @@
 
 A modern, stylish movie recommendation web app built using **React** and **Tailwind CSS**. FlickPick allows users to browse movies, get recommendations, search by title or genre, and view detailed info with ratings, trailers, and more – all through a sleek, responsive UI.
 
+🔗 [Live Demo](https://lambent-gumdrop-d75634.netlify.app/)
+
 > ## 📸 Frontend Preview
 
 ![FlickPick Frontend](./src/assets/Preview.png)
