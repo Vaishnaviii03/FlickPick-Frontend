@@ -4,7 +4,7 @@ A modern, stylish movie recommendation web app built using **React** and **Tailw
 
 > ## 📸 Frontend Preview
 
-![FlickPick Frontend](./assets/Preview.png)
+![FlickPick Frontend](./src/assets/Preview.png)
 
 
 ---
